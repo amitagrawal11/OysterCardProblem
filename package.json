@@ -1,0 +1,16 @@
+{
+    "name": "oystercard",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/app.js",
+    "devDependencies": {
+        "typescript": "^3.4.5"
+    },
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "amit",
+    "license": "ISC"
+}
